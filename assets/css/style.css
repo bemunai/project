@@ -1579,7 +1579,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: url("../img/footer-bg.jpg") center center no-repeat;
+  background: url("../img/8573.jpg") center center no-repeat;
   color: #fff;
   font-size: 14px;
   position: relative;
@@ -1662,7 +1662,7 @@ section {
 }
 
 #footer .footer-top .footer-newsletter form input[type=submit]:hover {
-  background: #5ab652;
+  background: #fe0c0c;
 }
 
 #footer .footer-top .social-links {
@@ -1685,7 +1685,7 @@ section {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #5ab652;
+  background: #fe0c0c;
   color: #fff;
   text-decoration: none;
 }
